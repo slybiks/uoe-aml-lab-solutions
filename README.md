@@ -1,1 +1,1 @@
-# Applied Machine Learning - Labs Solutions
+# Applied Machine Learning - Lab Solutions
